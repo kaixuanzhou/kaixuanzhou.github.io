@@ -2,9 +2,9 @@
 name: 厚积薄发
 email: 313052590@qq.com
 author: 卷子
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
-github: https://github.com/luoyan35714/
+url: https://zkx313052590.github.io
+resume_site: https://zkx313052590.github.io
+github: https://github.com/zkx313052590
 baseurl: ""
 description: 吾今虽欲自以为不足，而众已妄推之矣
 meta_description: 卷子;个人博客;zkxuan;
@@ -23,15 +23,15 @@ highlighter: Pygments
 # Build settings
 markdown: kramdown
 
-baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+baidu_analysis: a354690a22ed8bbe637326cea16c471a
 
 FB:
   comments :
     provider : duoshuo
     duoshuo:
-        short_name : luoyan35714
+        short_name : zkxuan
     disqus :
-        short_name : freudkang
+        short_name : zkxuan
     # facebook :
     #   appid : 123
     #   num_posts: 5
