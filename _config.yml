@@ -27,7 +27,7 @@ baidu_analysis: a354690a22ed8bbe637326cea16c471a
 
 FB:
   comments :
-    provider : duoshuo
+    provider : custom
     duoshuo:
         short_name : zkxuan
     disqus :
