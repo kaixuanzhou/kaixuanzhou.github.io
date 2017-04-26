@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  使用github-page、jekyll搭建独立博客
+title:  使用github-page、jekyll搭建独立博客（一）
 date:   2017-04-23 15:41:20 +0800
 categories: 技术分享
 tag: interview
