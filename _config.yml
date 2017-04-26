@@ -23,7 +23,7 @@ highlighter: Pygments
 # Build settings
 markdown: kramdown
 
-baidu_analysis: a354690a22ed8bbe637326cea16c471a
+baidu_analysis: f0f7543f1763e147f327677dbc2978c2
 
 FB:
   comments :
