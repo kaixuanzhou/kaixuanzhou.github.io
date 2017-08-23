@@ -3,16 +3,19 @@ layout: post
 title:  使用github-page、jekyll搭建独立博客（二）
 date:   2017-4-26 15:36:28 +0800
 categories: 技术分享
-tag: interview
+tag:
+    - blog
+    - jekyll
+    - Github Pages
 ---
 
 * content
 {:toc}
 
 
-    一直想搭建自己的独立博客，但这几年web前端技术处于井喷式发展，学习各种新技术、新标准都让自己有些分身乏术，搭建博客的事自然也就被自己扔到了爪哇国。
-    
-    最近换了新工作，有幸听新同事介绍到利用github-page来搭建独立博客，于是这事便重新拾了起来~
+    使用jekyll能快速的搭建出美观、好用的博客，而github-page更是直接支持编译jekyll博客。
+
+    github-page可以免费托管静态页面，并提供二级访问地址，如果有需要也可以绑定自己的域名。
 
 通过上一篇文章的操作，已经在本地搭建了一个jekyll的环境，并且和Github Pages中的环境一致，这次我们只需要将本地代码提交到Github中即可将博客发布到互联网上。
 
