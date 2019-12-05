@@ -12,7 +12,7 @@ tag:
 * content
 {:toc}
 
-1.XSS是什么
+1.XSS是什么?
 ===========
 
 XSS 是一种非常常见的WEB攻击手段， 全拼为Cross Site Scripting，意为跨站脚本攻击，是恶意攻击者往Web页面里插入恶意Script代码，
