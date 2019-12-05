@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  web开发中需要注意的安全问题与防范措施(xss篇)
-date:   2017-5-10 10:32:15 +0800
+title:  web开发中需要注意的安全问题与防范措施(ssl篇)
+date:   2017-9-21 10:32:15 +0800
 categories: 技术分享
 tag:
     - web
     - security
-    - xxs
+    - ssl
 ---
 
 * content
 {:toc}
 
-1.XSS是什么
+1.XSS是什么?
 ===========
 
 XSS 是一种非常常见的WEB攻击手段， 全拼为Cross Site Scripting，意为跨站脚本攻击，是恶意攻击者往Web页面里插入恶意Script代码，
